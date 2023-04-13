@@ -3,7 +3,7 @@ package guru.qa;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world! Russia will be free!");
+        System.out.println("Hello world with no Putin!");
 
     }
 }
